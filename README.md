@@ -1,2 +1,2 @@
 # legba-skill
-Residential-IP &amp; Remote Browser Isolation As A Service for AI agents &amp; Humans. Provision a temp proxy via Legba Proxy Pool, then fetch or render through it. Upgrade to RBI for human-like browsing.
+Legba is the access layer for AI agents on the open web. One proxy URL routes your agent onto sites that block cloud infrastructure, escalating from a plain fetch to headless and fingerprint-hardened browsers only when a site demands it. Works with Playwright, Puppeteer, Selenium or any proxy-aware stack. Flat pricing, no bandwidth meter.
